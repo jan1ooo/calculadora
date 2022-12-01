@@ -10,7 +10,7 @@ public class Botao extends JButton {
         setOpaque(true);
         setBackground(cor);
         setForeground(Color.WHITE);
-        setFont(new Font("courier", Font.PLAIN, 15));
+        setFont(new Font("courier", Font.PLAIN, 25));
         setBorder(BorderFactory.createLineBorder(Color.BLACK));
     }
 }
